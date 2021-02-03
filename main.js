@@ -59,6 +59,10 @@
 
 // calc(0, 0, 0)
 
-function createPople() {
+function createNumber3() {
    console.log("kliknąłem 3")
+}
+
+function createNumber7() {
+   console.log("najechałem na 7")
 }
