@@ -66,3 +66,7 @@ function createNumber3() {
 function createNumber7() {
    console.log("najechałem na 7")
 }
+
+function clearConsole() {
+   console.clear()
+}
