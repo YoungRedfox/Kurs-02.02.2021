@@ -59,14 +59,31 @@
 
 // calc(0, 0, 0)
 
-function createNumber3() {
-   console.log("kliknąłem 3")
-}
-
-function createNumber7() {
-   console.log("najechałem na 7")
-}
-
 function clearConsole() {
    console.clear()
+   console.log("usunołesz wszystko z konsoli")
 }
+
+function clickNumber3() {
+   console.log("kliknąłesz 3")
+}
+
+function dbClickNumber4() {
+   console.log("kliknąłesz podwójnie 4")
+}
+
+function mouseOverNumber7() {
+   console.log("najechałesz na 7")
+}
+
+function focusinNumber8() {
+   console.log("kliknąłesz na 8 i jest fokusin")
+ }
+
+ function focusNumber9() {
+   console.log("kliknąłesz na 9 i jest fokus")
+ }
+
+ function mouseOutButtonTimes() {
+   console.log("Zjechałesz myszką z *")
+ }
